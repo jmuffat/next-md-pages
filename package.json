@@ -1,0 +1,19 @@
+{
+  "name": "next-md-pages",
+  "version": "1.0.0",
+  "description": "markdown pages for Next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmuffat/next-md-pages.git"
+  },
+  "author": "jmm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmuffat/next-md-pages/issues"
+  },
+  "homepage": "https://github.com/jmuffat/next-md-pages#readme"
+}
